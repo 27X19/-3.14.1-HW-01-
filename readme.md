@@ -1,6 +1,6 @@
 # Инструкция по рабоет с GIT
 
-LICENSE: [MIT](./license.md)
+LICENSE: [MITEN](./licenseEN.md) /[MITRU](./licenseRU.md)
 
 ![git-logo](./Git-logo.png)
 

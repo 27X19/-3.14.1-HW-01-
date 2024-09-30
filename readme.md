@@ -7,7 +7,7 @@ LICENSE: [MITEN](./licenseEN.md) /[MITRU](./licenseRU.md)
 ---
 
 ### Содержание:
-1. Что-то
+1. [Что-то](./add.md)
 2. [git add](./add.md)
 
 

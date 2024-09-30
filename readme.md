@@ -7,11 +7,11 @@ LICENSE: [MITEN](./licenseEN.md) /[MITRU](./licenseRU.md)
 ---
 
 ### Содержание:
-1. [Что-то](./Capybara.md)
+1. [Что это? Птица? Самолёт? Нет, это](./Capybara.md)
 2. [git add](./add.md)
 
 
 
 ---
 
-GIT logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.0] (https://creativecommons.org/licenses/by/3.0/
+GIT logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.0] (https://creativecommons.org/licenses/by/3.0/)
